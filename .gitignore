@@ -1,0 +1,34 @@
+# ==========================================
+# Unity Essentials
+# ==========================================
+/[U|u]nity-[C|c]lient/[L|l]ibrary/
+/[U|u]nity-[C|c]lient/[T|t]emp/
+/[U|u]nity-[C|c]lient/[O|o]bj/
+/[U|u]nity-[C|c]lient/[B|b]uild/
+/[U|u]nity-[C|c]lient/[L|l]ogs/
+/[U|u]nity-[C|c]lient/[U|u]ser[S|s]ettings/
+
+# Visual Studio / VS Code temporary files generated for Unity
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# ==========================================
+# Python & VS Code Essentials
+# ==========================================
+**/__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+
+# ==========================================
+# Operating System Garbage
+# ==========================================
+Thumbs.db
+Desktop.ini
+.DS_Stores
