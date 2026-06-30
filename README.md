@@ -1,3 +1,4 @@
+> This project was developed as my MSc Electronics final-year project. It was carried out across the third and fourth semesters as a one-year academic project: the third semester included subject work along with project preparation, while the fourth semester was dedicated to the full six-month implementation, testing, and final presentation of the complete system.
 # Holographic Interactive AI
 
 This project is a Holographic interactive AI system that brings together voice, animation, and physical hardware. The goal is to create a holographic character that can listen, talk, respond, and move in a more lifelike way in Air looks like real human standing.
